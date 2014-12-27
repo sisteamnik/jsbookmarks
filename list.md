@@ -1,4 +1,1 @@
-jsbookmarks
-===========
-
-js librares
+ [Nanobar.js](github.com/jacoborus/nanobar)
