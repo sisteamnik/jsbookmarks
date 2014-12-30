@@ -1,1 +1,1 @@
- [Nanobar.js](github.com/jacoborus/nanobar)
+ [Nanobar.js](http://github.com/jacoborus/nanobar)
